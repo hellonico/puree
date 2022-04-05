@@ -19,3 +19,6 @@ From folder < ., to folder > out
 Each csv file from the input folder will be added two columns, with the date, and the filename.
 The resulting file will be copied into the specified out folder.
 
+
+Developed with [Jetbrains Goland](https://www.jetbrains.com/go/promo/]
+
