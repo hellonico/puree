@@ -76,7 +76,7 @@ func enhanceDir(out string, path string) {
 func main() {
 	folder := flag.String("in", ".", "Input folder")
 	out := flag.String("out", "out", "Output folder")
-	dateFormat := flag.String("df", "", "Format for the current date")
+	// dateFormat := flag.String("df", "", "Format for the current date")
 
 	flag.Parse()
 
