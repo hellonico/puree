@@ -1,3 +1,3 @@
-module premongo
+module puree
 
 go 1.18
