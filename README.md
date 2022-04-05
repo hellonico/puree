@@ -20,5 +20,5 @@ Each csv file from the input folder will be added two columns, with the date, an
 The resulting file will be copied into the specified out folder.
 
 
-Developed with [Jetbrains Goland](https://www.jetbrains.com/go/promo/]
+Developed with [Jetbrains Goland](https://www.jetbrains.com/go/promo/)
 
